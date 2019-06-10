@@ -1,4 +1,4 @@
-owner=196805254375800834
+owner=454918105144229917
 prefix=em
 game=على ذاك الطريق
 stayinchannel=true

@@ -1,0 +1,6 @@
+owner=196805254375800834
+prefix=em
+game=على ذاك الطريق
+stayinchannel=true
+songinstatus=false
+token=NDM2NTg1MTA1MDA4NDkyNTQ0.XP6CNg.GHhCKcKyjud9-QZkic1w2ovXjK4
